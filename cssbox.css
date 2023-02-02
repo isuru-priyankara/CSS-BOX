@@ -1,0 +1,81 @@
+#box_4c{
+	position: relative;
+	right:-400px;
+	top: -100px;
+}
+#box_4b{
+	position: relative;
+	right:-600px;
+	top: 100px;
+}
+#box_4d{
+	position: relative;
+	right:-600px;
+	top: -100px;
+}
+#box_4a{
+	position: relative;
+	right:-400px;
+	top: 500px;
+}
+#box_leftT1{
+	position: relative;
+	right:-300px;
+	top: -600px;    
+}
+#box_leftT2{
+	position: relative;
+	right:-200px;
+	top: -900px;    
+}
+
+#box_leftb1{
+position: relative;
+	right:-300px;
+	top: -600px;    	
+}
+#box_leftb2{
+position: relative;
+	right:-200px;
+	top: -700px;    	
+}
+#box_rightt1{
+position: relative;
+	right:-700px;
+	top: -1400px;    	
+}
+#box_rightt2{
+position: relative;
+	right:-800px;
+	top: -1700px;    	
+}
+#box_rightb1{
+position: relative;
+	right:-700px;
+	top: -1400px;    	
+}
+#box_rightb2{
+position: relative;
+	right:-800px;
+	top: -1500px;    	
+}
+#box_1{
+position: relative;
+	right:-500px;
+	top: -2400px;    	
+}
+#box_2{
+position: relative;
+	right:-900px;
+	top: -2200px;    	
+}
+#box_3{
+position: relative;
+	right:-500px;
+	top: -2000px;    	
+}
+#box_4{
+position: relative;
+	right:-100px;
+	top: -2600px;    	
+}
